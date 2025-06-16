@@ -50,7 +50,7 @@ If you are interested in any of these roles, we encourage you to apply!
 ## How to Apply
 
 <div align="center">
-  <a href="https://forms.gle/YOUR_GOOGLE_FORM_LINK" target="_blank">
+  <a href="https://forms.gle/3PnaQ2UxfSkB1QAHA" target="_blank">
     <img src="https://img.shields.io/badge/APPLY-Big%20Red%20Button-E74C3C?style=for-the-badge&logo=googleforms&logoColor=white" alt="Apply Button"/>
   </a>
 </div>
