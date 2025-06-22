@@ -1,6 +1,7 @@
 # HouseLearning Staff Guide
 
 Welcome to the HouseLearning staff repository! We are a volunteer-driven organization dedicated to advancing learning through technology. If you are passionate about education, technology, and making a difference, we invite you to join our team.
+![GitHub Org's visitors](https://komarev.com/ghpvc/?username=houselearning&label=Visitors&color=0e75b6&style=flat)
 
 ---
 
